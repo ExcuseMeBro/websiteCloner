@@ -1,0 +1,25 @@
+{
+  "name": "websiteCloner",
+  "version": "1.0.0",
+  "description": "Html, javascript and css",
+  "main": "index.js",
+  "dependencies": {
+    "website-scraper": "^4.2.3",
+    "website-scraper-puppeteer": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arash4567/websiteCloner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arash4567/websiteCloner/issues"
+  },
+  "homepage": "https://github.com/Arash4567/websiteCloner#readme"
+}
